@@ -20,7 +20,7 @@ The aim is to provide insights into Tesla's sales trends in the context of finan
 - In the dashboard, you will find charts displaying Tesla’s sales trends over the years and the correlation of $TSLA with the Nasdaq-100.
 - Use the interactive filters on the dashboard to gain deeper insights into specific models or years
 
-**Linki**
+**Links**
 LinkedIn https://www.linkedin.com/feed/update/urn:li:activity:7257666496246493184/
 
 **Author**
@@ -31,7 +31,7 @@ Data analyst with a passion for data visualization and analysis in the context o
 /* 
 UPDATE
 
-**Linki**
+**Links**
 The updated version of the project can be found at the link below:
 
 https://www.linkedin.com/posts/sylwester-storczyk_dashboard-excel-dataanalysis-activity-7260982319073669120-f7-x?utm_source=share&utm_medium=member_desktop
