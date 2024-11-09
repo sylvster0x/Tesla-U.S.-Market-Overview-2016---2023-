@@ -27,3 +27,13 @@ LinkedIn https://www.linkedin.com/feed/update/urn:li:activity:725766649624649318
 Sylwester Storczyk
 Data analyst with a passion for data visualization and analysis in the context of financial markets and sales trends.
 
+
+/* 
+UPDATE
+
+**Linki**
+The updated version of the project can be found at the link below:
+
+https://www.linkedin.com/posts/sylwester-storczyk_dashboard-excel-dataanalysis-activity-7260982319073669120-f7-x?utm_source=share&utm_medium=member_desktop
+ */
+
